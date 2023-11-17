@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/material-tailwind-test/static/css/main.bf7b81b2.css",
+    "main.js": "/material-tailwind-test/static/js/main.78ca6427.js",
+    "static/media/googleLogo.svg": "/material-tailwind-test/static/media/googleLogo.2ee35cc6a57bee5eafaeecc8fb2a2369.svg",
+    "static/media/yandexLogo.svg": "/material-tailwind-test/static/media/yandexLogo.a9413eaa726afbd990eb649327ba3f64.svg",
+    "static/media/mainpic.svg": "/material-tailwind-test/static/media/mainpic.65cd61a621c50ae13395409e8f9ea410.svg",
+    "static/media/logo.jpg": "/material-tailwind-test/static/media/logo.dd776d6e42f03cb0dbba.jpg",
+    "static/media/alibabaLogo.svg": "/material-tailwind-test/static/media/alibabaLogo.c880008854ce8d90c08df325d3587dc3.svg",
+    "static/media/macyLogo.svg": "/material-tailwind-test/static/media/macyLogo.824b16848eb152f3737040894da9c906.svg",
+    "static/media/slick.svg": "/material-tailwind-test/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/material-tailwind-test/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/material-tailwind-test/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/cirkleCheck.svg": "/material-tailwind-test/static/media/cirkleCheck.5267a764cb68afc1e200f2370a370ae8.svg",
+    "static/media/slick.woff": "/material-tailwind-test/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/material-tailwind-test/index.html",
+    "main.bf7b81b2.css.map": "/material-tailwind-test/static/css/main.bf7b81b2.css.map",
+    "main.78ca6427.js.map": "/material-tailwind-test/static/js/main.78ca6427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7b81b2.css",
+    "static/js/main.78ca6427.js"
+  ]
+}
